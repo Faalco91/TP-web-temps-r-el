@@ -15,8 +15,8 @@ serveur acessible en localhost:3000
 
 ## Étapes du projet
 
-F1: 
-F2:
+F1: Oui
+F2: Oui
 F3: 
 F4: 
 F5:
