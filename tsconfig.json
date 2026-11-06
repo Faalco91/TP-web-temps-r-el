@@ -6,5 +6,6 @@
     "outDir": "dist",
     "strict": true
   },
+  "module": "NodeNext",
   "include": ["src/**/*.ts"]
 }
