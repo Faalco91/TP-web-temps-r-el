@@ -11,13 +11,14 @@ serveur acessible en localhost:3000
 
 ## Documentation API
 
+Je n'ai pas eu le temps de documenter mais pour f2 et f3 les requetes ont fonctionnées 
 
 
 ## Étapes du projet
 
 F1: Oui
 F2: Oui
-F3: 
+F3: Oui
 F4: 
 F5:
 F6:
